@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+nav{
+
+    background-color: rgb(37, 9, 37);
+    color: white;
+    height:75px;
+    font-size: 66px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-family:sans-serif;
+}
+nav ul{
+    list-style-type: none;
+}
+.gameContainer{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+
+}
